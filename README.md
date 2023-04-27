@@ -5,4 +5,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](Arduino Led.png)
+![Esquema do projeto](Arduino_Led.png)
